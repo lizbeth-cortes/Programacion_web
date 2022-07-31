@@ -1,0 +1,57 @@
+body{
+  background-color: #1ABC9C;
+  font-family: sans-serif;
+  padding-left:  230px;
+  padding-right: 230px;
+}
+.letra{
+  font-family: serif;
+}
+.fondoVerde{
+  background-color: #2ECC71;
+  font-size: 2em;
+}
+
+.fondoRojo{
+  background-color: #E74C3C;
+  font-size: 2em;
+}
+.fondoMorado{
+  background-color:#9b59b6;
+  font-size: 2em
+}
+.text2{
+  text-align: center;
+}
+.text4{
+  text-align: center;
+}
+.text5{
+  color: white;
+  text-align: center;
+}
+
+.borde3{
+  border: 4px white solid;
+}
+
+.margen{
+  padding: 5px;
+}
+
+.tamDiv{
+  width: 100%;
+}
+.tamDiv1{
+  width: 20%;
+}
+.tamDiv2{
+  width: 100%;
+}
+.tamDiv3{
+  width: 35%;
+}
+.tamDiv4{
+  width: 100%;
+  padding: 150px
+}

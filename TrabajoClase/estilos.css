@@ -1,0 +1,66 @@
+.fondoverde{
+  background-color: rgb(26,188,156);
+}
+
+.fondorojo{
+  background-color: red;
+}
+
+.fondoazul{
+  background-color: aqua;
+}
+
+.fondovioleta{
+  background-color: blueviolet;
+}
+
+.fondoblanco{
+  background-color: white;
+}
+
+.fondoamarillo{
+  background-color: yellow;
+}
+
+.fondoverdeclaro{
+  background-color: chartreuse;
+}
+
+/*colores de letras*/
+
+.letrablanca{
+  color: white;
+}
+
+.tamañoletra{
+  font-size: 30px;
+}
+
+.bordegris1{
+  border: 8px outset rgb(128,128,128)
+}
+
+.bordegris2{
+  border: 8px outset rgb(128,128,128)
+}
+
+.bordegris3{
+  border: 15px outset rgb(128,128,128)
+}
+
+.bordegris4{
+  border: 2px outset rgb(128,128,128)
+}
+
+.bordenegro{
+  border: 1px outset black;
+}
+
+.tamañocuadro{
+  width: 100%;
+}
+
+.margen{
+  margin: -5px;
+  padding: -5px;
+}
